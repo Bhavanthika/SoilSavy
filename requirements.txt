@@ -1,0 +1,9 @@
+Pillow==10.1.0
+timm==0.9.10
+torch==2.2.0
+torchvision==0.17.0  # Updated to the latest available version
+transformers==4.36.0
+sentencepiece==0.1.99
+opencv-python
+gradio
+peft
